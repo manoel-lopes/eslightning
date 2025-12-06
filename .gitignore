@@ -1,0 +1,7 @@
+# Claude
+.claude
+.claude/*
+CLAUDE.md
+
+# Dependencies
+node_modules
