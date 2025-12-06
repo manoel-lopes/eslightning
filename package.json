@@ -1,0 +1,36 @@
+{
+  "name": "eslightning",
+  "version": "0.3.5",
+  "description": "Opinionated ESLint configurations for TypeScript projects",
+  "author": "",
+  "license": "MIT",
+  "type": "module",
+  "exports": {
+    "./node": "./node/rules.js"
+  },
+  "files": [
+    "node"
+  ],
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "typescript",
+    "nodejs"
+  ],
+  "peerDependencies": {
+    "eslint": ">=9.0.0",
+    "typescript": ">=5.0.0"
+  },
+  "dependencies": {
+    "@eslint/js": "^9.39.1",
+    "@vitest/eslint-plugin": "^1.5.1",
+    "eslint-plugin-import": "^2.32.0",
+    "eslint-plugin-simple-import-sort": "^12.1.1",
+    "eslint-plugin-unused-imports": "^4.3.0",
+    "neostandard": "^0.12.2",
+    "typescript-eslint": "^8.48.1"
+  },
+  "devDependencies": {
+    "eslightning": "0.3.0"
+  }
+}
