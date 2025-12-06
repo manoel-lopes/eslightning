@@ -1,6 +1,6 @@
 {
   "name": "eslightning",
-  "version": "0.3.7",
+  "version": "0.3.8",
   "description": "Opinionated ESLint configurations for TypeScript projects",
   "author": "",
   "license": "MIT",
