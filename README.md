@@ -2,7 +2,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/8569/8569864.png" width="120" alt="eslightning logo" />
 </p>
 
-<h1 align="center">eslightning</h1>
+<h1 align="center">ESLightning</h1>
 
 <p align="center">
   Opinionated ESLint configurations for TypeScript projects.
